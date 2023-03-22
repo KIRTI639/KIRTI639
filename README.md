@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ✍️ I’m currently working on DevOps tools and Python programming
+
+- 👯 I’m looking to collaborate on ...
+
+- 📫 How to reach me: kirtirajput63969@gmail.com.
+
+- ⚡ Fun fact: ...I have no special talent I am passionately curious about learning. 
