@@ -1,7 +1,7 @@
 <div id="header" align = "center">
   <img src="https://media1.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif?cid=ecf05e4728q9o24rcoqs17c0dmt2nhl322esfrqw64x8mqk2&rid=giphy.gif&ct=g" width="100"/>
 <div id="badges">
-  <a href="https://github.com/KIRTI639">
+  <a href="https://www.linkedin.com/in/kirti-rajput-a81b10220/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>.
   <a href="mailto:kirtirajput63969@gmail.com">
@@ -51,7 +51,7 @@ I am a from <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
  <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
  <img src="https://icons-for-free.com/download-icon-Terraform-1329545833434920628_512.png" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp
 </div>
 
 
