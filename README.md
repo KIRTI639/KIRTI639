@@ -1,7 +1,7 @@
 <div id="header" align = "center">
   <img src="https://media1.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif?cid=ecf05e4728q9o24rcoqs17c0dmt2nhl322esfrqw64x8mqk2&rid=giphy.gif&ct=g" width="100"/>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/kirti-rajput-a81b10220/">
+  <a href="https://www.linkedin.com/in/kirti-rajput-a81b10220/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>.
   <a href="mailto:kirtirajput63969@gmail.com">
@@ -46,8 +46,8 @@ I am a from <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" **alt="Git" width="40" height="40"/>
  <img src="https://cdn-icons-png.flaticon.com/512/6125/6125001.png" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="Github" alt="Github" width="40" height="40"/>&nbsp;
- <img src="https://camo.githubusercontent.com/c8df4d3ef5efa270d3cf5ca04b70d29423ae8f91a12e61f44eed78d442f1c596/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f646f776e6c6f61642f73746f726167652f76312f622f6d61636f732d69636f6e732e61707073706f742e636f6d2f6f2f69636f6e735f617070726f766564253246706e67253246313630353336343933323737385f446f636b65725f416c745f322e706e673f67656e65726174696f6e3d3136303533373936303030373430383026616c743d6d65646961" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+ <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="Github" alt="Github" width="40" height="30"/>&nbsp;
+<imgsrc="https://camo.githubusercontent.com/c8df4d3ef5efa270d3cf5ca04b70d29423ae8f91a12e61f44eed78d442f1c596/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f646f776e6c6f61642f73746f726167652f76312f622f6d61636f732d69636f6e732e61707073706f742e636f6d2f6f2f69636f6e735f617070726f766564253246706e67253246313630353336343933323737385f446f636b65725f416c745f322e706e673f67656e65726174696f6e3d3136303533373936303030373430383026616c743d6d65646961" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
  <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
  <img src="https://icons-for-free.com/download-icon-Terraform-1329545833434920628_512.png" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp
