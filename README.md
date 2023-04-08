@@ -11,11 +11,7 @@
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website Badge"/>
   </a> -->
 </div>
-
-  <!-- <img src="https://komarev.com/ghpvc/?username=vishalpande&style=flat-square&color=blue" alt=""/> -->
-
-
-  <h1>
+<h1>
      Hi there! I'm Kirti Rajput
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -58,11 +54,19 @@ I am a from <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
 
 ---
 
-fire: My Status :
+---
+
+### :fire: My Status :
 <p align="center">
   <a href="#">
     <img
       align="center" src="https://github-readme-streak-stats.herokuapp.com?user=KIRTI639&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
+  </a>
+</p>
+
+
+
+
   </a>
 </p> -->
 
