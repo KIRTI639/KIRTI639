@@ -26,7 +26,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a from <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  India.
+I am  from <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  India.
 <img align="right" height="250" width="400" alt="GIF" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif"/>
 
 - 🔭I’m currently working on **DevOps tools and Python programming**
