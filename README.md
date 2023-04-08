@@ -11,6 +11,8 @@
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website Badge"/>
   </a> -->
 </div>
+<img src="https://komarev.com/ghpvc/?username=KIRTI639&style=flat-square&color=blue" alt=""/>
+
 <h1>
      Hi there! I'm Kirti Rajput
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
